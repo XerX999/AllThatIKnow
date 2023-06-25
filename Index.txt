@@ -1,0 +1,12 @@
+Ausdruck - System.out.println( "Verhaften Sie die üblichen Verdächtigen" ) - Der String ist ein Argument von der println Methode und heißt Ausdruck.
+	   Ein Ausdruck kann an allen Stellen stehen, an denen ein Wert benötigt wird.
+
+Ausdrucksanweisung - Es reiht sich in einem Programm Anweisung an Aweisung. Ausdrücke und Methodenaufrufe lassen sich als Anweisungen einsetzen. Wenn der Ausdruck mit einem Semikolon abgeschlossen wird heißt der Ausdruck, Ausdrucksanweisung. Nicht jeder Ausdruck kann eine Ausdrucksanweisung werden zB 1+2;
+
+Modifizierer - public (Sichtbarkeitsmodifizierer), static (Methode aufrufen ohne ein Objekt bilden zu müssen) etc.
+
+
+
+Resultat - komplexe Ausdrücke println( (1+2) * 1.19 ) - der Wert des Ausdrucks heißt Resultat
+
+
