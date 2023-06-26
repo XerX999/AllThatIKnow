@@ -1,6 +1,6 @@
 package CodeSammlungen;
 
-public class PrintF {
+public class _001PrintF {
 
 	public static void main(String[] args) {
 		System.out.printf("%d ist eine Zahl.%n", 200);
